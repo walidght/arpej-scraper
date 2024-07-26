@@ -1,0 +1,5 @@
+all_unwanted_arpej.txt
+configs.json
+.env
+__pycache__/
+results/sent-*.json

@@ -1,0 +1,18 @@
+{
+    "chrome_options": {
+        "headless": false,
+        "no_sandbox": false,
+        "disable_gpu": true,
+        "disable_crash_reporter": true,
+        "disable_extensions": true,
+        "disable_in_process_stack_traces": true,
+        "disable_logging": true,
+        "disable_dev_shm_usage": true,
+        "log_level=3": true,
+        "output=/dev/null": true
+    },
+    "windows_chromedriver_path": "/path/to/chromedriver.exe",
+    "SMTP_HOST": "smtp.office365.com",
+    "SMTP_PORT": 587,
+    "NOTIFICATION_EMAIL": "your_email@domain.com"
+}
