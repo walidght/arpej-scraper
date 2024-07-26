@@ -14,5 +14,7 @@
     "windows_chromedriver_path": "/path/to/chromedriver.exe",
     "SMTP_HOST": "smtp.office365.com",
     "SMTP_PORT": 587,
-    "NOTIFICATION_EMAIL": "your_email@domain.com"
+    "NOTIFICATION_EMAIL": "your_email@domain.com",
+    "ARPEJ_LINK": "link_to_arpej_page_with_filters",
+    "MAX_PRICE": 999
 }
